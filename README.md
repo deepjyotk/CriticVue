@@ -1,4 +1,6 @@
-﻿# Moview-review-sentiment-Analysis
+﻿# Critic Vue
+
+ ## Features:
 
 ### 1. Utilized Dataset of 6000 Movie Reviews: Employed a diverse dataset comprising 6000 carefully selected movie reviews.
 
